@@ -20,7 +20,7 @@ def bonus
    }
   }
 
-  epic_tragedy[:montague][:patriarch][:hero] = "Michael Jordan"#code your solution here:
+  epic_tragedy[:montague][:patriarch][:hero][:status] = "dead"#code your solution here:
 
   
 
